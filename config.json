@@ -1,0 +1,7 @@
+{
+    "classification_threshold": 0.45,
+    "retrieval_threshold": 0.2,
+    "llm_provider": "local",
+    "gemini_api_key": "",
+    "openai_api_key": ""
+}

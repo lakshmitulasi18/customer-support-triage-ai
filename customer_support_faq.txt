@@ -1,0 +1,16 @@
+The Knowledge Base document creation is failing with an error when I click "Save & Re-index".
+
+Please debug this issue in the application.
+
+Check the frontend and backend implementation for:
+- Add Knowledge Base Document
+- Save document
+- Re-index / RAG indexing
+- Knowledge Base document API
+
+Find the actual cause of the error, fix the code, restart the required services, and test adding a document successfully.
+
+Do not remove or disable the RAG functionality.
+The final application must store the knowledge-base document and make it available for retrieval.
+
+After fixing it, tell me exactly what was changed and confirm that I can add a document successfully.

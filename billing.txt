@@ -1,0 +1,19 @@
+# Subscription Billing Policies
+
+## Billing Cycles
+All SaaS subscription plans are billed on a recurring monthly cycle. Invoices are generated on the 1st day of each month. Your credit card on file will be charged automatically on the invoice date. If you sign up in the middle of a month, your first invoice will be prorated based on the remaining days of that month.
+
+## Payment Methods
+We accept major credit cards including Visa, Mastercard, American Express, and Discover. We also support PayPal for recurring payments. You can update your payment details at any time by going to Billing Settings in your account dashboard.
+
+## Subscription Tiers
+We offer three main tiers:
+- Basic Plan: $19 per month. Includes core features, 10 API requests per minute, and standard support.
+- Pro Plan: $49 per month. Includes advanced features, 100 API requests per minute, and priority support.
+- Enterprise Plan: Custom pricing. Includes unlimited API requests, dedicated account manager, and custom service level agreements (SLAs).
+
+## Refund Policy
+We offer a 14-day money-back guarantee for all new subscriptions. If you cancel your subscription within 14 days of your initial purchase, you are eligible for a full refund. Refund requests submitted after 14 days of purchase will not be approved, and the subscription will remain active until the end of the current billing cycle. To request a refund, please contact billing support through the portal or email billing@saascompany.com.
+
+## Overdue Payments
+If a recurring charge fails, our billing system will automatically retry the charge three times over a 7-day period. If the payment remains unresolved after 7 days, your account subscription will be suspended, and your access will be downgraded to the free read-only plan. You can restore access by updating your credit card details and settling the outstanding balance.

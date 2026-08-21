@@ -1,0 +1,30 @@
+# Technical Support and Troubleshooting Guide
+
+## File Upload Failures
+If you encounter errors when uploading files to our platform, please verify the following limits:
+- Maximum File Size: The maximum file size limit is 50MB per upload.
+- Allowed Formats: We only support PDF, PNG, JPG, and CSV files. Uploading other formats will result in a validation error.
+- Network Interruptions: If your network connection drops during upload, the upload will fail. Ensure a stable broadband connection.
+
+## API Rate Limits and Authentication
+If you receive HTTP status code 429 (Too Many Requests), you have exceeded your plan's API rate limits.
+- Basic Plan limits are 10 API requests per minute.
+- Pro Plan limits are 100 API requests per minute.
+- Enterprise Plan limits are custom and typically set to 1000+ requests per minute.
+To authenticate your API requests, include the `Authorization: Bearer <your_api_key>` header. API requests without a valid token will return a 401 Unauthorized status.
+
+## Dashboard Performance and Loading Issues
+If the dashboard is loading slowly or freezing, we recommend clearing your browser's local storage and cache:
+1. Open developer tools in your browser (F12 or Ctrl+Shift+I).
+2. Go to the Application or Storage tab.
+3. Select "Clear Site Data" or clear cache and cookies specifically for our site.
+4. Reload the page.
+If the issue persists, check our official status page at status.saascompany.com to ensure there are no active system outages or server down-times.
+
+## Supported Browsers and System Requirements
+Our web application is optimized for the latest versions of modern web browsers:
+- Google Chrome (version 100 or higher)
+- Mozilla Firefox (version 98 or higher)
+- Apple Safari (version 15 or higher)
+- Microsoft Edge (version 100 or higher)
+Using outdated browsers or Internet Explorer may result in broken layouts, unresponsive buttons, or script errors.

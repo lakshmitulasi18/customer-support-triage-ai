@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2026-08-21T14:03:00.393782",
+        "message": "How do I request a refund for my invoice?",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.4974908757341095,
+        "relevance_score": 0.3800160886432076,
+        "escalation_reason": "Escalated due to low categorization confidence (0.50 is below threshold 0.55).",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "timestamp": "2026-08-21T14:03:00.417141",
+        "message": "What is the file upload size limit?",
+        "predicted_category": "Technical Support",
+        "classification_confidence": 0.4939783247085649,
+        "relevance_score": 0.5606275542495246,
+        "escalation_reason": "Escalated due to low categorization confidence (0.49 is below threshold 0.55).",
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "timestamp": "2026-08-21T14:03:00.436817",
+        "message": "How do I reset my password?",
+        "predicted_category": "Account Access",
+        "classification_confidence": 0.5264357364569475,
+        "relevance_score": 0.48236168290107767,
+        "escalation_reason": "Escalated due to low categorization confidence (0.53 is below threshold 0.55).",
+        "status": "Pending"
+    },
+    {
+        "id": 4,
+        "timestamp": "2026-08-21T14:03:00.461689",
+        "message": "What is the shipping cost to Germany?",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.398743827819267,
+        "relevance_score": 0.0,
+        "escalation_reason": "Escalated because the query is out-of-scope and matches no supported categories or knowledge base articles.",
+        "status": "Pending"
+    },
+    {
+        "id": 5,
+        "timestamp": "2026-08-21T14:03:00.489672",
+        "message": "Tell me a joke about dogs.",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.3360459180986515,
+        "relevance_score": 0.0,
+        "escalation_reason": "Escalated because the query is out-of-scope and matches no supported categories or knowledge base articles.",
+        "status": "Pending"
+    },
+    {
+        "id": 6,
+        "timestamp": "2026-08-21T14:03:34.462464",
+        "message": "What is the shipping cost to Germany?",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.398743827819267,
+        "relevance_score": 0.0,
+        "escalation_reason": "Escalated because the query is out-of-scope and matches no supported categories or knowledge base articles.",
+        "status": "Pending"
+    },
+    {
+        "id": 7,
+        "timestamp": "2026-08-21T14:03:34.489558",
+        "message": "Tell me a joke about dogs.",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.3360459180986515,
+        "relevance_score": 0.0,
+        "escalation_reason": "Escalated because the query is out-of-scope and matches no supported categories or knowledge base articles.",
+        "status": "Resolved"
+    },
+    {
+        "id": 8,
+        "timestamp": "2026-08-21T14:20:15.571824",
+        "message": "Do you have discount plans for startups?",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.4116153390729006,
+        "relevance_score": 0.7942218372690216,
+        "escalation_reason": "Escalated due to low categorization confidence (0.41 is below threshold 0.45).",
+        "status": "Pending"
+    },
+    {
+        "id": 9,
+        "timestamp": "2026-08-21T14:27:01.645553",
+        "message": "tell  me  a  joke  abt dogs?",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.3360459180986515,
+        "relevance_score": 0.38352595414276724,
+        "escalation_reason": "Escalated due to low categorization confidence (0.34 is below threshold 0.45).",
+        "status": "Pending"
+    },
+    {
+        "id": 10,
+        "timestamp": "2026-08-21T14:27:30.687208",
+        "message": "Tell me a joke about dogs?",
+        "predicted_category": "Billing",
+        "classification_confidence": 0.3360459180986515,
+        "relevance_score": 0.38352595414276724,
+        "escalation_reason": "Escalated due to low categorization confidence (0.34 is below threshold 0.45).",
+        "status": "Pending"
+    }
+]
